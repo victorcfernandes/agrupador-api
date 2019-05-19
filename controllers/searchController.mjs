@@ -5,7 +5,6 @@ const router = express.Router();
 
 router.get("/search", async ({ query }, res) => {
   const data = await Group.getByLatLng(query);
-  console.log(data);
 
   res.json(data);
 });

@@ -30,6 +30,24 @@ exports.seed = function(knex) {
           lat: -22.863445,
           lng: -43.226824,
           description:
+            "Laboris amet irure ut consectetur et. Commodo proident ipsum anim velit velit id. Fugiat nostrud culpa est minim officia est officia cupidatat eiusmod."
+        },
+        {
+          id: 4,
+          name: "Garfo de EJCM 4",
+          link: "www",
+          lat: -22.9163008,
+          lng: -43.247206399999996,
+          description:
+            "Minim cupidatat Lorem minim quis eiusmod dolor aliqua pariatur ipsum. Enim tempor ea dolore proident sint ad aliquip. Consectetur non cupidatat Lorem culpa ut ut reprehenderit tempor ullamco quis."
+        },
+        {
+          id: 5,
+          name: "Garfo de EJCM 5",
+          link: "www",
+          lat: -22.9163008,
+          lng: -43.247206399999996,
+          description:
             "Minim cupidatat Lorem minim quis eiusmod dolor aliqua pariatur ipsum. Enim tempor ea dolore proident sint ad aliquip. Consectetur non cupidatat Lorem culpa ut ut reprehenderit tempor ullamco quis."
         }
       ]);

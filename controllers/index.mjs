@@ -1,6 +1,6 @@
-import express from "express";
-import path from "path";
-import { loadFiles } from "../helpers/Loader.mjs";
+import express from 'express';
+import path from 'path';
+import { loadFiles } from '../helpers/Loader';
 
 /* eslint-disable-next-line */
 const metaUrl = import.meta.url;
