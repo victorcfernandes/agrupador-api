@@ -24,6 +24,7 @@
     "express": "^4.17.0",
     "helmet": "^3.18.0",
     "knex": "^0.17.0-next3",
+    "pg": "^7.11.0",
     "sqlite3": "^4.0.8"
   },
   "devDependencies": {
